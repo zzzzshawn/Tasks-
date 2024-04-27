@@ -67,7 +67,7 @@ function App() {
   return (
     <>
       <Navbar />
-      <div className="container mx-auto  border rounded-md min-h-[80vh] lg:max-w-[60%] lg:mt-5">
+      <div className="container mx-auto  border rounded-md min-h-[80vh] lg:max-w-[60%] lg:mt-5 shadow-md">
         <div className=" p-8 font-bold flex flex-col justify-center items-start border-y pb-5" >
           <h2 className='mx-4'>Add Item</h2>
           <div className='w-full  px-2 flex my-1'>
