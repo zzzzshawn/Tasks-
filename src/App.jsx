@@ -86,7 +86,7 @@ function App() {
               <span className="slider round"></span>
             </label>
             <p className='font-medium'>
-              Show completed Todos
+              Show completed Todos!
             </p>
           </div>
           {arr.length === 0 && <div className='text-sm font-light mx-4'>Nothing to display...</div>}
